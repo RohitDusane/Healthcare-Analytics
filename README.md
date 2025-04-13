@@ -40,8 +40,9 @@ broken down by **Age Profile, Specialty, Time Bands and, and patient Case Type**
 3) Add as per needed
 
 ### Views Requirement 📊
-1) Summary Page
-2) Detailed Page for Granular Analysis
+1) Summary Page![Dashboard - Summary](./Summary%20View.PNG)
+
+2) Detailed Page for Granular Analysis![Dashboard - Summary](./Detailed%20View.PNG)
 
 ## 3. Data Sources
 
